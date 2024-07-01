@@ -7,5 +7,5 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/song248/Eyelid-Length/assets/69496202/ac47a2f8-bc99-4ebc-9af4-8eaa66af9ab5">
+  <img src="https://github.com/song248/Eyelid-Length/assets/69496202/9b1a9650-e844-4db1-9767-2eaca36a846e">
 </p>
